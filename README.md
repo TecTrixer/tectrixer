@@ -1,9 +1,8 @@
 ### Hi there, im TecTrixer
 
-- 🔭 I’m currently working on the [Ask The World Project](https://github.com/Ask-The-World)
-- 🌱 I’m currently learning to write good and memory efficient code with rust
+- 🔭 I’m currently working on a full stack project for a friend starting an arma organization (server, website, roles, discord + teamspeak integration, ...)
+- 🌱 I’m currently learning to write good and memory efficient code with rust (also some challenges on codingforce.com)
 - 👯 I’m looking to collaborate on the Linux Kernel and other OS projects, but thats probably not gonna happen soon :)
-- 🤔 I’m looking for collaborators on the [Ask The World Project](https://github.com/Ask-The-World), it would help a lot and its an exiting project
 - 💬 Ask me about linux and how its centuries better than windows :)
 - 📫 How to reach me: write an email to tonihoevedes@gmail.com
 - ⚡ Fun fact: I also play the piano
