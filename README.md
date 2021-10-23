@@ -11,4 +11,4 @@ Unfortunatly the stats only include my personal repositories but not the ones fr
 
 ![TecTrixers's github stats](https://github-readme-stats.vercel.app/api?username=tectrixer&show_icons=true&theme=dark&count_private=true)
 
-![TecTrixer's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tectrixer&layout=compact&theme=dark&count_private=true)
+![TecTrixer's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tectrixer&layout=compact&theme=dark&count_private=true&hide=jupyter)
